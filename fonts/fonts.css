@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'PT Sans Caption';
+    src: url('PTSans-Caption.woff2') format('woff2'),
+         url('PTSans-Caption.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PT Sans Caption';
+    src: url('PTSans-Captionbold.woff2') format('woff2'),
+         url('PTSans-Captionbold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Museo Sans Cyrl 500';
+    src: url('museosanscyrl500.woff2') format('woff2'),
+         url('museosanscyrl500.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
